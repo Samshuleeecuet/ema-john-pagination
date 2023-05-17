@@ -25,3 +25,12 @@
     justify-content: space-between;
     align-items: center;
 }
+.pagination{
+    margin: 0px auto;
+}
+.pagination button{
+    margin-right: 10px;
+}
+.selected{
+    background-color: #FF9900;
+}
